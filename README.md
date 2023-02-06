@@ -1,4 +1,4 @@
-# Alan-Turing-Celebration
+# Alan Turing Celebration
 
 ## Introduction:
 
