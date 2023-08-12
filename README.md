@@ -6,6 +6,6 @@ A MERN stack web application for STEM workers in the underrepresented groups to 
 
 ## Tech Stack:
 
-**Front-End**: HTML, CSS, JavaScript(React), Ant Design
+**Front-End**: HTML, CSS, JavaScript(React)
 
 **Back-End**: Node.js, Express.js, MongoDB
